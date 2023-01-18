@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">VK Ads block</string>
+    <string name="xposed_description">убирает рекламу из vk</string>
 </resources>
